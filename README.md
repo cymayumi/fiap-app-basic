@@ -1,7 +1,7 @@
-# ListaGitHub
-Usuários e seus repositórios no GitHub - API com Retrofit (MVP)
+# Aplicativo StorageHouse - projeto FIAP
+Prévia do aplicativo desenvolvido como projeto do curso de ADS. A API consumida foi elaborada em outro projeto e está hospedada no Heroku.
 </br>
-API utilizada: <https://api.github.com/users>
+API utilizada: <https://api-basic-fiap.herokuapp.com/espaco>
 </br>
 </br>
-<img src="images/ss1.jpg" height="350" width="200"><img src="images/ss2.jpg" height="350" width="200"><img src="images/ss3.jpg" height="350" width="200"><img src="images/ss4.jpg" height="350" width="200">
+<img src="images/Screenshot_20210910-132818_GitHub Pop.jpg" height="350" width="200"><img src="images/Screenshot_20210910-132829_GitHub Pop.jpg" height="350" width="200">
